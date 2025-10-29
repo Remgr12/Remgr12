@@ -18,4 +18,4 @@ Discord:   Remgr
 ```
 
 
-<img src="https://raw.githubusercontent.com/remgr12/remgr12/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=remgr12&theme=auto" alt="github snake contribution grid" />
