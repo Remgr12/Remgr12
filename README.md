@@ -14,7 +14,8 @@ Languages: JavaScript, TypeScript,
            C++, C#, Rust
 Learning:  Node.js
 Hobbies:   Skiing, Sleeping
-Discord,Telegram: Remgr,Remgr12
+Discord:   Remgr
+Telegram:  Remgr12
 ```
 
 <table>
