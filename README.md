@@ -12,7 +12,7 @@ Location:  Salzburg State, Austria
 Languages: JavaScript, TypeScript,
            HTML, CSS, Python, Java,
            C++, C#, Rust
-Learning:  Node.js
+Learning:  Node.js, Rust (further)
 Hobbies:   Skiing, Sleeping
 Discord:   Remgr
 Telegram:  Remgr12
