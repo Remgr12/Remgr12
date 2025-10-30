@@ -17,5 +17,6 @@ Hobbies:   Skiing, Sleeping
 Discord:   Remgr
 ```
 
+![remgr12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=remgr12&theme=nord&hide_border=true)
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=remgr12&theme=auto" alt="github snake contribution grid" />
+![remgr12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=remgr12&theme=nord&show_icons=true&hide_border=true&layout=compact)
