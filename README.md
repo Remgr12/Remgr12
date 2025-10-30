@@ -13,7 +13,7 @@ Languages: JavaScript, TypeScript,
            HTML, CSS, Python, Java,
            C++, C#, Rust
 Learning:  Node.js
-Hobbies:   Gaming, Skiing, Sleeping
+Hobbies:   Skiing, Sleeping
 Discord:   Remgr
 ```
 
