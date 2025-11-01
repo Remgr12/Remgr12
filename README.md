@@ -11,7 +11,7 @@ Gender:    Male
 Location:  Salzburg State, Austria
 Languages: JavaScript, TypeScript,
            HTML, CSS, Python, Java,
-           C++, C#, Rust
+           Ruby, Rust
 Learning:  Node.js, Rust (further), Odin
 Hobbies:   Skiing, Sleeping
 Discord:   Remgr
