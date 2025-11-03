@@ -16,7 +16,7 @@ Learning:      Node.js, Rust (further), Odin
 Hobbies:       Skiing, Sleeping
 Discord:       Remgr
 Telegram:      Remgr12
-Github Pages:  https://remgr12.github.io/
+Github Page:   https://remgr12.github.io/
 ```
 
 <table>
