@@ -25,7 +25,7 @@ Github Page:   https://remgr12.github.io/
       <img src="https://github-readme-stats.vercel.app/api?username=remgr12&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="remgr12's Stats">
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remgr12&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="remgr12's Top Languages">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=remgr12&theme=nord&hide_border=true" alt="remgr12's streak">
     </td>
   </tr>
 </table>
