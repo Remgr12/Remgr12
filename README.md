@@ -46,7 +46,7 @@
         <summary>Badges</summary>
         <br>
         <a href="https://www.credly.com/badges/0db6a5f6-bb4f-4209-8a15-b2377b76451b/public_url">
-          <img src="https://images.credly.com/size/220x220/images/666993a4-8488-4660-84c4-722c6081498c/image.png" width="150" alt="Badge">
+          <img src="https://github.com/Remgr12/achievements/blob/7ddeb5ac888a176f9c098529fcd2dc2cf8e14307/certificates/badges/cisco/networking-basics.png" width="150" alt="Badge">
         </a>
       </details>
     </li>
