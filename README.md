@@ -47,15 +47,17 @@
         <br>
         <table width="856" border="0" style="border-collapse: collapse; border: none;">
           <tr style="border: none;">
-            <td align="right" style="border: none;">
+            <td align="center" style="border: none;">
               <a href="https://www.credly.com/badges/0db6a5f6-bb4f-4209-8a15-b2377b76451b/public_url">
-                <img src="https://github.com/Remgr12/achievements/blob/7ddeb5ac888a176f9c098529fcd2dc2cf8e14307/certificates/badges/cisco/networking-basics.png" width="150" height="150" alt="Credly Badge">
+                <img src="https://github.com/Remgr12/achievements/raw/7ddeb5ac888a176f9c098529fcd2dc2cf8e14307/certificates/badges/cisco/networking-basics.png" width="150" height="150" alt="Networking Basics">
               </a>
-            </td>
-            <td width="20" style="border: none;"></td>
-            <td align="left" style="border: none;">
+              &nbsp;&nbsp;
               <a href="https://www.credly.com/badges/3ee6e018-6ced-4c54-9780-258f328f7af7/public_url">
-                <img src="https://github.com/Remgr12/achievements/raw/ab99222075c3079e81cd65a29b47a8c96d5ae473/certificates/badges/linux/lfs101-introduction-to-linux.png" width="150" height="150" alt="Linux Badge">
+                <img src="https://github.com/Remgr12/achievements/raw/ab99222075c3079e81cd65a29b47a8c96d5ae473/certificates/badges/linux/lfs101-introduction-to-linux.png" width="150" height="150" alt="Introduction to Linux">
+              </a>
+              &nbsp;&nbsp;
+              <a href="https://www.credly.com/badges/38202476-80f4-498c-8c0c-560940523293/public_url">
+                <img src="https://github.com/Remgr12/achievements/raw/b4770c0ed80c54ce546b88db86a2b96c7dc1e399/certificates/badges/linux/lfd140-github-for-open-standards-development.png" width="150" height="150" alt="GitHub for Open Standards">
               </a>
             </td>
           </tr>
