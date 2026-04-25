@@ -2,7 +2,7 @@
 ![Stats](https://raw.githubusercontent.com/Remgr12/readme/main/github-stats.svg)
 
 <details>
-  <summary><h4><b>Certificates</b></h4></summary>
+  <summary><h3><b>Certificates</b></h3></summary>
   <br>
   <table width="856" border="0" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
