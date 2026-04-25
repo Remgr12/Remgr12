@@ -6,7 +6,7 @@
   <ul>
     <li>
       <details>
-        <summary>ECDL Certificates</summary>
+        <summary>ICDL Certificates</summary>
         <br>
         <table width="856" border="0" style="border-collapse: collapse; border: none;">
           <tr style="border: none;">
