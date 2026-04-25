@@ -1,5 +1,6 @@
 
 ![Stats](https://raw.githubusercontent.com/Remgr12/readme/main/github-stats.svg)
+
 <details>
   <summary><b>Certificates</b></summary>
   <ul>
@@ -58,6 +59,10 @@
               &nbsp;&nbsp;
               <a href="https://www.credly.com/badges/38202476-80f4-498c-8c0c-560940523293/public_url">
                 <img src="https://github.com/Remgr12/achievements/raw/b4770c0ed80c54ce546b88db86a2b96c7dc1e399/certificates/badges/linux/lfd140-github-for-open-standards-development.png" width="150" height="150" alt="GitHub for Open Standards">
+              </a>
+              &nbsp;&nbsp;
+              <a href="https://www.credly.com/badges/75d183a5-3470-4d54-afe9-52fe06e176bc/public_url">
+                <img src="https://github.com/Remgr12/achievements/raw/c794f4eade69fb2692ca361246f65f5ae0efcd36/certificates/badges/linux/lfc102-inclusive-open-source-community-orientation.png" width="150" height="150" alt="Inclusive Open Source Community">
               </a>
             </td>
           </tr>
