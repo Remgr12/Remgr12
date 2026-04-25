@@ -70,6 +70,18 @@
               </a>
             </td>
           </tr>
+          <tr style="border: none;">
+            <td align="center" style="border: none;">
+              <br>
+              <a href="https://www.credly.com/badges/790e17cb-4e72-4146-8dbe-12a8328b42d2/public_url">
+                <img src="https://github.com/Remgr12/achievements/raw/4764b8013293b99ccda85690f48a3ef15579c48a/certificates/badges/linux/lfc108-cybersecurity-essentials.png" width="145" height="145" alt="Cybersecurity Essentials">
+              </a>
+              &nbsp;&nbsp;
+              <a href="https://www.credly.com/badges/2e3c0bfe-003a-49ae-9358-0d0499b58f39/public_url">
+                <img src="https://github.com/Remgr12/achievements/raw/4764b8013293b99ccda85690f48a3ef15579c48a/certificates/badges/linux/lfel1002-getting-started-with-rust.png" width="145" height="145" alt="Getting Started with Rust">
+              </a>
+            </td>
+          </tr>
         </table>
       </details>
     </li>
