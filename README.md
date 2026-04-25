@@ -50,19 +50,23 @@
           <tr style="border: none;">
             <td align="center" style="border: none;">
               <a href="https://www.credly.com/badges/0db6a5f6-bb4f-4209-8a15-b2377b76451b/public_url">
-                <img src="https://github.com/Remgr12/achievements/raw/7ddeb5ac888a176f9c098529fcd2dc2cf8e14307/certificates/badges/cisco/networking-basics.png" width="140" height="140" alt="Networking Basics">
+                <img src="https://github.com/Remgr12/achievements/raw/7ddeb5ac888a176f9c098529fcd2dc2cf8e14307/certificates/badges/cisco/networking-basics.png" width="145" height="145" alt="Networking Basics">
               </a>
               &nbsp;&nbsp;
               <a href="https://www.credly.com/badges/3ee6e018-6ced-4c54-9780-258f328f7af7/public_url">
-                <img src="https://github.com/Remgr12/achievements/raw/ab99222075c3079e81cd65a29b47a8c96d5ae473/certificates/badges/linux/lfs101-introduction-to-linux.png" width="140" height="140" alt="Introduction to Linux">
+                <img src="https://github.com/Remgr12/achievements/raw/ab99222075c3079e81cd65a29b47a8c96d5ae473/certificates/badges/linux/lfs101-introduction-to-linux.png" width="145" height="145" alt="Introduction to Linux">
               </a>
               &nbsp;&nbsp;
               <a href="https://www.credly.com/badges/38202476-80f4-498c-8c0c-560940523293/public_url">
-                <img src="https://github.com/Remgr12/achievements/raw/b4770c0ed80c54ce546b88db86a2b96c7dc1e399/certificates/badges/linux/lfd140-github-for-open-standards-development.png" width="140" height="140" alt="GitHub for Open Standards">
+                <img src="https://github.com/Remgr12/achievements/raw/b4770c0ed80c54ce546b88db86a2b96c7dc1e399/certificates/badges/linux/lfd140-github-for-open-standards-development.png" width="145" height="145" alt="GitHub for Open Standards">
               </a>
               &nbsp;&nbsp;
               <a href="https://www.credly.com/badges/75d183a5-3470-4d54-afe9-52fe06e176bc/public_url">
-                <img src="https://github.com/Remgr12/achievements/raw/c794f4eade69fb2692ca361246f65f5ae0efcd36/certificates/badges/linux/lfc102-inclusive-open-source-community-orientation.png" width="140" height="140" alt="Inclusive Open Source Community">
+                <img src="https://github.com/Remgr12/achievements/raw/c794f4eade69fb2692ca361246f65f5ae0efcd36/certificates/badges/linux/lfc102-inclusive-open-source-community-orientation.png" width="145" height="145" alt="Inclusive Open Source Community">
+              </a>
+              &nbsp;&nbsp;
+              <a href="https://www.credly.com/badges/d28f308f-b7ae-4158-989c-ab37bff60420/public_url">
+                <img src="https://github.com/Remgr12/achievements/raw/c481dff449994da5dea373ff8b1a6f92393068d6/certificates/badges/linux/lfd125-security-for-software-development-managers.png" width="145" height="145" alt="Security for Software Development Managers">
               </a>
             </td>
           </tr>
