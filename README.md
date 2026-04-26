@@ -5,7 +5,7 @@
   <ul>
     <li>
       <details>
-        <summary>ICDL Certificates</summary>
+        <summary>ECDL Certificates</summary>
         <br>
         <table width="856" border="0" style="border-collapse: collapse; border: none;">
           <tr style="border: none;">
@@ -64,8 +64,8 @@
                 <img src="https://github.com/Remgr12/achievements/raw/56f9a129d14aa1c3ec45ee54092866f298c0ba3c/certificates/badges/fortinet/getting-started-in-cybersecurity-3-0.png" width="145" height="145" alt="Getting Started in Cybersecurity">
               </a>
               &nbsp;&nbsp;
-              <a href="https://www.credly.com/badges/3ee6e018-6ced-4c54-9780-258f328f7af7/public_url">
-                <img src="https://github.com/Remgr12/achievements/raw/ab99222075c3079e81cd65a29b47a8c96d5ae473/certificates/badges/linux/lfs101-introduction-to-linux.png" width="145" height="145" alt="Introduction to Linux">
+              <a href="https://www.credly.com/">
+                <img src="https://github.com/Remgr12/achievements/raw/309c5eb561b4369567f69daa436acb47119c86c3/certificates/badges/IBM/ibm-data-science-foundations-level-1.png" width="145" height="145" alt="IBM Data Science Foundations">
               </a>
             </td>
           </tr>
@@ -90,6 +90,14 @@
               &nbsp;&nbsp;
               <a href="https://www.credly.com/badges/2e3c0bfe-003a-49ae-9358-0d0499b58f39/public_url">
                 <img src="https://github.com/Remgr12/achievements/raw/4764b8013293b99ccda85690f48a3ef15579c48a/certificates/badges/linux/lfel1002-getting-started-with-rust.png" width="145" height="145" alt="Getting Started with Rust">
+              </a>
+            </td>
+          </tr>
+          <tr style="border: none;">
+            <td align="center" style="border: none;">
+              <br>
+              <a href="https://www.credly.com/badges/3ee6e018-6ced-4c54-9780-258f328f7af7/public_url">
+                <img src="https://github.com/Remgr12/achievements/raw/ab99222075c3079e81cd65a29b47a8c96d5ae473/certificates/badges/linux/lfs101-introduction-to-linux.png" width="145" height="145" alt="Introduction to Linux">
               </a>
             </td>
           </tr>
