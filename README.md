@@ -72,6 +72,18 @@
           <tr style="border: none;">
             <td align="center" style="border: none;">
               <br>
+              <a href="https://www.credly.com/badges/dd27b671-ad37-4f64-a4f7-24a63b9f4a8b/public_url">
+                <img src="https://github.com/Remgr12/achievements/raw/5a6af99c35e4c3964333a04b55a72371503b31e3/certificates/badges/cisco/introduction-to-cybersecurity.png" width="145" height="145" alt="Intro to Cybersecurity 1">
+              </a>
+              &nbsp;&nbsp;
+              <a href="https://www.credly.com/badges/150dd40c-fde0-4c29-948e-3af7c7068295/public_url">
+                <img src="https://github.com/Remgr12/achievements/blob/5a6af99c35e4c3964333a04b55a72371503b31e3/certificates/badges/cisco/endpoint-security.png" width="145" height="145" alt="Intro to Cybersecurity 2">
+              </a>
+            </td>
+          </tr>
+          <tr style="border: none;">
+            <td align="center" style="border: none;">
+              <br>
               <a href="https://www.credly.com/badges/38202476-80f4-498c-8c0c-560940523293/public_url">
                 <img src="https://github.com/Remgr12/achievements/raw/b4770c0ed80c54ce546b88db86a2b96c7dc1e399/certificates/badges/linux/lfd140-github-for-open-standards-development.png" width="145" height="145" alt="GitHub for Open Standards">
               </a>
