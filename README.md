@@ -1,12 +1,11 @@
 
 ![Stats](https://raw.githubusercontent.com/Remgr12/readme/main/github-stats.svg)
-
 <details>
   <summary><b>Certificates</b></summary>
   <ul>
     <li>
       <details>
-        <summary>ICDL Certificates</summary>
+        <summary>ECDL Certificates</summary>
         <br>
         <table width="856" border="0" style="border-collapse: collapse; border: none;">
           <tr style="border: none;">
@@ -53,10 +52,26 @@
                 <img src="https://github.com/Remgr12/achievements/raw/7ddeb5ac888a176f9c098529fcd2dc2cf8e14307/certificates/badges/cisco/networking-basics.png" width="145" height="145" alt="Networking Basics">
               </a>
               &nbsp;&nbsp;
+              <a href="https://www.credly.com/badges/6b19afa1-163e-42bb-8517-75439ade3992/public_url">
+                <img src="https://github.com/Remgr12/achievements/raw/56f9a129d14aa1c3ec45ee54092866f298c0ba3c/certificates/badges/fortinet/introduction-to-the-threat-landscape-3-0.png" width="145" height="145" alt="Threat Landscape">
+              </a>
+              &nbsp;&nbsp;
+              <a href="https://www.credly.com/badges/7c64229b-e2a2-47fe-ac36-eb9c567d3021/public_url">
+                <img src="https://github.com/Remgr12/achievements/raw/56f9a129d14aa1c3ec45ee54092866f298c0ba3c/certificates/badges/fortinet/fortinet-certified-fundamentals-cybersecurity.png" width="145" height="145" alt="Fortinet Certified Fundamentals">
+              </a>
+              &nbsp;&nbsp;
+              <a href="https://www.credly.com/badges/b51588f1-c21b-45cd-951f-7c6087838758/public_url">
+                <img src="https://github.com/Remgr12/achievements/raw/56f9a129d14aa1c3ec45ee54092866f298c0ba3c/certificates/badges/fortinet/getting-started-in-cybersecurity-3-0.png" width="145" height="145" alt="Getting Started in Cybersecurity">
+              </a>
+              &nbsp;&nbsp;
               <a href="https://www.credly.com/badges/3ee6e018-6ced-4c54-9780-258f328f7af7/public_url">
                 <img src="https://github.com/Remgr12/achievements/raw/ab99222075c3079e81cd65a29b47a8c96d5ae473/certificates/badges/linux/lfs101-introduction-to-linux.png" width="145" height="145" alt="Introduction to Linux">
               </a>
-              &nbsp;&nbsp;
+            </td>
+          </tr>
+          <tr style="border: none;">
+            <td align="center" style="border: none;">
+              <br>
               <a href="https://www.credly.com/badges/38202476-80f4-498c-8c0c-560940523293/public_url">
                 <img src="https://github.com/Remgr12/achievements/raw/b4770c0ed80c54ce546b88db86a2b96c7dc1e399/certificates/badges/linux/lfd140-github-for-open-standards-development.png" width="145" height="145" alt="GitHub for Open Standards">
               </a>
@@ -68,11 +83,7 @@
               <a href="https://www.credly.com/badges/d28f308f-b7ae-4158-989c-ab37bff60420/public_url">
                 <img src="https://github.com/Remgr12/achievements/raw/c481dff449994da5dea373ff8b1a6f92393068d6/certificates/badges/linux/lfd125-security-for-software-development-managers.png" width="145" height="145" alt="Security for Software Development Managers">
               </a>
-            </td>
-          </tr>
-          <tr style="border: none;">
-            <td align="center" style="border: none;">
-              <br>
+              &nbsp;&nbsp;
               <a href="https://www.credly.com/badges/790e17cb-4e72-4146-8dbe-12a8328b42d2/public_url">
                 <img src="https://github.com/Remgr12/achievements/raw/4764b8013293b99ccda85690f48a3ef15579c48a/certificates/badges/linux/lfc108-cybersecurity-essentials.png" width="145" height="145" alt="Cybersecurity Essentials">
               </a>
