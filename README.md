@@ -77,7 +77,7 @@
               </a>
               &nbsp;&nbsp;
               <a href="https://www.credly.com/badges/150dd40c-fde0-4c29-948e-3af7c7068295/public_url">
-                <img src="https://github.com/Remgr12/achievements/blob/5a6af99c35e4c3964333a04b55a72371503b31e3/certificates/badges/cisco/endpoint-security.png" width="145" height="145" alt="Intro to Cybersecurity 2">
+                <img src="https://github.com/Remgr12/achievements/blob/5a6af99c35e4c3964333a04b55a72371503b31e3/certificates/badges/cisco/endpoint-security.png" width="145" height="145" alt="Endpoint Security">
               </a>
             </td>
           </tr>
